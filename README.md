@@ -63,8 +63,8 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/madsondeluna/GETVar.git
-   cd GETVar
+   git clone https://github.com/madsondeluna/getvar.git
+   cd getvar
    ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
