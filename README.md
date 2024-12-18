@@ -71,7 +71,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
    ```bash
    python -m venv venv
-   source venv/bin/activate  # No Windows: venv\Scripts\activate
+   source venv/bin/activate
    ```
 
 3. Instale as dependências:
