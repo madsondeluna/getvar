@@ -1,6 +1,6 @@
 # GET<i>Var</i> 🧬👨🏻‍💻
 
-O **GETVar** é uma ferramenta desenvolvida para **análise e anotação de variantes genéticas**. Com um workflow eficiente, a ferramenta integra dados de variantes genômicas para identificar e interpretar anotações de variantes de forma rápida e precisa em bancos de dados públicos.
+O **GET<i>Var</i>** é uma ferramenta desenvolvida para **análise e anotação de variantes genéticas**. Com um workflow eficiente, a ferramenta integra dados de variantes genômicas para identificar e interpretar anotações de variantes de forma rápida e precisa em bancos de dados públicos.
 
 ## Funcionalidades
 
@@ -112,3 +112,4 @@ Madson Aragão\
 [madsondeluna@gmail.com](mailto\:madsondeluna@gmail.com)\
 [LinkedIn](https://www.linkedin.com/in/madsonaragao)
 
+Designed by Madson Aragão (a.k.a. **GET<i>Var</i>** Team) in Somewhere
