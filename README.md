@@ -96,7 +96,12 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 ## Exemplo de Uso
 
-Submeta um arquivo **VCF** através da interface web. O sistema processará os dados, realizará as anotações e disponibilizará um relatório final em formato tabular que pode ser filtrada através das respectivas anotações
+Submeta um arquivo **VCF** através da interface web. O sistema processará os dados, realizará as anotações e disponibilizará um relatório final em formato tabular que pode ser filtrada através das respectivas anotações. 
+
+## Informaçõs Adicionais de Uso 
+
+As API REST do dbSNP, ClinVar e Ensembl permitem um número máximo de 30 requisicoes por request, então em alguns momentos a aplicação pode aprensetar instabilidade ou lentidão.
+Em algumas ocasiões os servidores do dbSNP, ClinVar e Ensembl apresentam instabilidade ou falta de respnsividade nas requisições, nestes casos, o manual das APIs recoemnadam a resubmissão dos dados para anotação.
 
 ## Licença
 
