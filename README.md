@@ -70,7 +70,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 2. Crie um ambiente virtual (opcional, mas recomendado):
 
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate
    ```
 
@@ -85,7 +85,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 1. Inicie o servidor local:
 
    ```bash
-   python main.py
+   python3 main.py
    ```
 
 2. Acesse a aplicação no navegador em:
