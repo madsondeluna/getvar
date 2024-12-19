@@ -100,8 +100,7 @@ Submeta um arquivo **VCF** através da interface web. O sistema processará os d
 
 ## Informaçõs Adicionais de Uso 
 
-As API REST do dbSNP, ClinVar e Ensembl permitem um número máximo de 30 requisicoes por request, então em alguns momentos a aplicação pode aprensetar instabilidade ou lentidão.
-Em algumas ocasiões os servidores do dbSNP, ClinVar e Ensembl apresentam instabilidade ou falta de respnsividade nas requisições, nestes casos, o manual das APIs recoemnadam a resubmissão dos dados para anotação.
+As APIs REST do dbSNP, ClinVar e Ensembl possuem um limite de até 30 requisições por solicitação. Por isso, a aplicação pode apresentar instabilidade ou lentidão em alguns momentos. Além disso, os servidores dessas plataformas ocasionalmente podem ficar instáveis ou não responder adequadamente às requisições. Nesses casos, o manual das APIs recomenda a resubmissão dos dados para completar o processo de anotação.
 
 ## Licença
 
