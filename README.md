@@ -1,4 +1,12 @@
-# GET<i>Var</i> 🧬👨🏻‍💻
+# GET<i>Var</i> (Test Version) 🧬👨🏻‍💻
+
+## Aviso ⚠️
+
+Esse é um **<i>repositório de testes</i>**. Pode apresentar instabilidades. 
+Para a versão mais atualizadas acesse: 
+````
+https://github.com/madsondeluna/getvar_mvp
+```
 
 O **GET<i>Var</i>** é uma ferramenta desenvolvida para **análise e anotação de variantes genéticas**. Com um workflow eficiente, a ferramenta integra dados de variantes genômicas para identificar e interpretar anotações de variantes de forma rápida e precisa em bancos de dados públicos.
 
@@ -63,7 +71,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/madsondeluna/getvar.git
+   git clone https://github.com/madsondeluna/getvar_test.git
    cd getvar
    ```
 
